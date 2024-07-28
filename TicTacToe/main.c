@@ -1,10 +1,3 @@
-//
-//  main.c
-//  TicTacToe
-//
-//  Created by Adam Rigely on 27.07.24.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
